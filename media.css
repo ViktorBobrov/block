@@ -1,0 +1,118 @@
+@media (max-width: 1441px) {
+  .block_wrapper {
+    max-width: 1440px;
+  }
+  .advatages_wrapper {
+    padding-top: 74px;
+    padding-bottom: 70px;
+    margin: 0px 10px;
+  }
+  .advatages_head-wrap {
+    padding: 0 100px;
+    gap: 276px;
+  }
+
+  .advatages_head-head {
+    font-size: 46px;
+    max-width: 813px;
+  }
+  .advatages_card-wrap {
+    margin-top: 93px;
+    justify-content: center;
+    align-items: center;
+  }
+  .advatages_card-box {
+    padding: 40px;
+    max-width: 400px;
+    max-height: 320px;
+  }
+  .advatages_card-svg {
+    width: 164.218px;
+    height: 178.518px;
+    margin-top: 19px;
+  }
+  .advatages_card-par {
+    font-size: 16px;
+    margin-top: 35px;
+    padding-bottom: 24px;
+  }
+}
+@media (max-width: 769px) {
+  .block_wrapper {
+    max-width: 768px;
+  }
+  .advatages_wrapper {
+    padding-top: 60px;
+    padding-bottom: 98px;
+    margin: 0px 10px;
+  }
+  .advatages_head-wrap {
+    padding: 0 30px;
+    gap: 123px;
+  }
+  .advatages_head-span {
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .advatages_head-head {
+    font-size: 32px;
+    max-width: 439px;
+  }
+
+  .advatages_card-wrap {
+    margin-top: 52px;
+  }
+  .advatages_card-box {
+    padding: 34px;
+    max-width: 325px;
+    max-height: 256px;
+  }
+  .advatages_card-svg {
+    width: 116.048px;
+    height: 143.637px;
+  }
+  .advatages_card-par {
+    width: 257px;
+    font-size: 14px;
+    margin-top: 20px;
+  }
+}
+@media (max-width: 376px) {
+  .block_wrapper {
+    max-width: 375px;
+  }
+  .advatages_wrapper {
+    padding-top: 53px;
+    padding-bottom: 50px;
+    margin: 0px 10px;
+  }
+  .advatages_head-wrap {
+    flex-direction: column;
+    gap: 16px;
+    padding-top: 20px;
+  }
+  .advatages_head-span {
+    font-size: 12px;
+  }
+  .advatages_head-head {
+    font-size: 24px;
+  }
+  .advatages_card-wrap {
+    margin-top: 40px;
+  }
+  .advatages_card-box {
+    max-width: 325px;
+    max-height: 260px;
+    padding: 24px;
+  }
+  .advatages_card-svg {
+    width: 116px;
+    height: 145px;
+    margin-top: 15px;
+  }
+
+  .advatages_card-par {
+    max-width: 257px;
+    margin-top: 21px;
+  }
+}

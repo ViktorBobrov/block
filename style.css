@@ -1,0 +1,96 @@
+@font-face {
+  font-family: "Cyntho Next";
+  src: local("Cyntho Next Regular"), local("Cyntho-Next-Regular"),
+    url("./fonts/CynthoNext-Regular.woff2") format("woff2"),
+    url("./fonts/CynthoNext-Regular.woff") format("woff"),
+    url("./fonts/CynthoNext-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Cyntho Next";
+}
+h2 {
+  color: #061e21;
+  font-family: Cyntho Next;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 104%;
+  letter-spacing: -0.676px;
+}
+p {
+  color: #061e21;
+  text-align: center;
+  font-family: Cyntho Next;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+.advatages_head-span {
+  color: #061e21;
+  font-family: Cyntho Next;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 100%;
+}
+.block_wrapper {
+  max-width: 1860px;
+  margin: 0 auto;
+}
+.advatages_wrapper {
+  background-color: #e6f7f9;
+  border-radius: 24px;
+  margin: 0px 30px;
+  padding-top: 93px;
+  padding-bottom: 94px;
+}
+.advatages_head-wrap {
+  padding: 0 180px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 357px;
+}
+
+.advatages_head-head {
+  max-width: 838px;
+}
+.advatages_card-wrap {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 19px;
+  margin-top: 62px;
+}
+
+.advatages_card-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 16px;
+  border: 1px solid rgba(6, 30, 33, 0.02);
+  background: #fff;
+  padding: 50px;
+}
+.advatages_card-par {
+  max-width: 370px;
+  margin-top: 70px;
+}
+.advatages_card-svg {
+  width: 201px;
+  height: 201px;
+  margin-top: 20px;
+}
+.margin_par {
+  margin-top: 50px;
+}
